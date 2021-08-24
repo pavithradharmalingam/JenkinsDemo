@@ -33,7 +33,7 @@ public class TestCases {
 	public void testAddEmployee()
 	{
 		int result=EmployeeData.addEmployee(111,"sandeep");
-		assertEquals(1,result);
+		assertEquals(3,result);
 				
 	}
 	
